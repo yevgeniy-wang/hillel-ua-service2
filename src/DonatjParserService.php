@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hillel\UserAgent;
+namespace Hillel\UserAgentService2;
 
 
 use donatj\UserAgent\UserAgentParser;
