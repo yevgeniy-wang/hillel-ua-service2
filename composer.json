@@ -1,0 +1,12 @@
+{
+  "name": "yevgeniy/uaservice2",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\UserAgentService2\\": "./src"
+    }
+  },
+  "require": {
+    "donatj/phpuseragentparser": "^1.4",
+    "yevgeniy/uainterface": "^1.0.0"
+  }
+}
